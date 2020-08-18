@@ -1,0 +1,92 @@
+{
+   "title":"Zucchini Brownies",
+   "calories_per_serving":271,
+   "comments": [{
+      "body": "This is really gross.",
+      "date": {
+          "$date": "2020-09-07T18:42:30.000Z"
+      },
+      "name": "Caderyn Jenkins",
+      "user_id": 1
+  }, {
+      "body": "Who thought of this? It's so bad.",
+      "date": {
+          "$date": "2000-02-03T18:42:30.000Z"
+      },
+      "name": "Grace Hopper",
+      "user_id": 2
+  }],
+   "cook_time":32,
+   "desc":"Don't worry, they won't turn out green",
+   "directions":[
+      "Combine brownie mix with other ingredients",
+      "Bake as it says on box",
+      "Don't actually make or eat this."
+   ],
+   "ingredients":[
+      {
+         "amount":{
+            "quantity":1,
+            "unit":"cup"
+         },
+         "name":"butter"
+      },
+      {
+         "amount":{
+            "quantity":2,
+            "unit":null
+         },
+         "name":"egg"
+      },
+      {
+         "amount":{
+            "quantity":0.75,
+            "unit":"cup"
+         },
+         "name":"plain yogurt"
+      },
+      {
+         "amount":{
+            "quantity":0.75,
+            "unit":"cup"
+         },
+         "name":"shredded zucchini"
+      },
+      {
+         "amount":{
+            "quantity":0.75,
+            "unit":"cup"
+         },
+         "name":"chocolate chips (semisweet)"
+      },
+      {
+         "amount":{
+            "quantity":3,
+            "unit":"lbs"
+         },
+         "name":"creamy peanut butter"
+      },
+      {
+         "amount":{
+            "quantity":1,
+            "unit":null
+         },
+         "name":"brownie mix"
+      }
+   ],
+   "prep_time":12,
+   "rating":[
+      1,
+      1,
+      1,
+      1,
+      5
+   ],
+   "rating_avg":1.8,
+   "servings":12,
+   "tags":[
+      "sweets",
+      "easy"
+   ],
+   "type":"Dessert"
+}

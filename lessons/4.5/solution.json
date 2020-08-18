@@ -1,0 +1,17 @@
+{
+    "user_id": 1,
+    "first_name": "Yoshi",
+    "last_name": "McDonish",
+    "email": "yoshi@zxy.com",
+    "backing_level": 2,
+    "shiping_address": {
+        "street_name": "123 Mushroom Ln",
+        "city": "Gondor",
+        "state": "MS",
+        "zip": "12345"
+    },
+    "rewards": [
+        "book",
+        "beach towel"
+    ]
+}
