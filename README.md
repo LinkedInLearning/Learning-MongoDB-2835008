@@ -21,6 +21,8 @@ This course was recorded with MongoDB version `4.2` While `4.4` will generally w
 
 ## Download MongoDB Database Tools (if using `4.4`+)
 
+To make sure you have tools like `mongoimport` and `mongoexport` you may need to download the MongoDB Database Tools.
+
 https://www.mongodb.com/try/download/database-tools
 
 ### Instructor
