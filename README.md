@@ -15,12 +15,13 @@ Excelling in an ever-changing software development world requires true "full sta
 - Implementing security
 - Backing up and restoring MongoDB
 
-## Instructions
-This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
+## MongoDB Version
 
-## Branches
-The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
-Some branches will have a beginning and an end state. These are marked with the letters `b` for "beginning" and `e` for "end". The `b` branch contains the code as it is at the beginning of the movie. The `e` branch contains the code as it is at the end of the movie. The `main` branch holds the final state of the code when in the course.
+This course was recorded with MongoDB version `4.2` While `4.4` will generally work for this course, unfortunately MongoDB now has broken out tools like `mongoimport` into a separate download which you can get here and copy into the bin directory:
+
+## Download MongoDB Database Tools (if using `4.4`+)
+
+https://www.mongodb.com/try/download/database-tools
 
 ### Instructor
 
