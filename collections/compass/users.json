@@ -1,0 +1,22 @@
+[{
+	"_id": {
+		"$oid": "5ebc44f23a289bc862491d92"
+	},
+	"user_id": 2,
+	"firstName": "Grace",
+	"lastname": "Hopper",
+	"title": "Rear Admiral",
+	"email": "grace@navy.mil",
+	"password": "C8w4&CWC^egwecwoWei79chwf"
+},
+{
+	"_id": {
+		"$oid": "5ee695203260aab97ea0d58c"
+	},
+	"user_id": 1,
+	"firstName": "Caderyn",
+	"lastName": "Jenkins",
+	"email": "none@example.com",
+	"password": "ZHN5t6RPW8krrkm72ir7NeMYF37G6Rle"
+}]
+

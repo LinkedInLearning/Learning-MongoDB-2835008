@@ -1,0 +1,551 @@
+[{
+	"_id": {
+		"$oid": "5e6fd805fa98021236426a24"
+	},
+	"title": "Chicken Soft Tacos",
+	"calories_per_serving": 205,
+	"cook_time": 19,
+	"desc": "Mexican soft tacos",
+	"directions": [
+		"Put seasoning on chicken breasts",
+		"Grill until done",
+		"Chop chicken into peices",
+		"Put in totillas"
+	],
+	"ingredients": [
+		{
+			"name": "chicken breast",
+			"quantity": {
+				"amount": 1,
+				"unit": "lbs"
+			}
+		},
+		{
+			"name": "taco seasoning",
+			"quantity": {
+				"amount": 2,
+				"unit": "oz"
+			}
+		},
+		{
+			"name": "small flour totillas",
+			"quantity": {
+				"amount": 12,
+				"unit": "oz"
+			}
+		}
+	],
+	"likes": [
+		261,
+		1,
+		415
+	],
+	"likes_count": 3,
+	"prep_time": 10,
+	"rating": [
+		4,
+		4,
+		4,
+		4,
+		2,
+		5,
+		3
+	],
+	"rating_avg": 3.71,
+	"servings": 5,
+	"tags": [
+		"mexican",
+		"quick",
+		"easy",
+		"chicken"
+	],
+	"type": "Dinner"
+},
+{
+	"_id": {
+		"$oid": "5e877cba20a4f574c0aa56da"
+	},
+	"title": "Pancakes",
+	"calories_per_serving": 232,
+	"comments": [
+		{
+			"body": "I love these! They are so fluffy!",
+			"date": {
+				"$date": "2000-01-03T18:42:30Z"
+			},
+			"name": "Grace Hopper",
+			"user_id": 2
+		}
+	],
+	"cook_time": 10,
+	"desc": "Everyone's favorite pancakes",
+	"directions": [
+		"Mix milk and vinegar in a medium bowl let set for 5 minutes to \"sour\".",
+		"Mix flour, sugar, baking powder, baking soda, and salt in a large mixing bowl.",
+		"Combine butter egg into milk.",
+		"Pour dry mixture into the wet ingredients and whisk until smooth.",
+		"Heat electric skillet to 435 F and coat with cooking spray.",
+		"Pour 1/4 cup of batter for each pancake onto the skillet, and cook until bubbles appear on the sides.",
+		"Flip and cook until browned."
+	],
+	"ingredients": [
+		{
+			"amount": {
+				"quantity": 0.75,
+				"unit": "cup"
+			},
+			"name": "milk"
+		},
+		{
+			"amount": {
+				"quantity": 1.5,
+				"unit": "tablespoon"
+			},
+			"name": "white vinegar"
+		},
+		{
+			"amount": {
+				"quantity": 0.5,
+				"unit": "teaspoon"
+			},
+			"name": "baking soda"
+		},
+		{
+			"amount": {
+				"quantity": 0.5,
+				"unit": "teaspoon"
+			},
+			"name": "salt"
+		},
+		{
+			"amount": {
+				"quantity": 2,
+				"unit": "tablespoon"
+			},
+			"name": "granulated sugar"
+		},
+		{
+			"amount": {
+				"quantity": 1,
+				"unit": "teaspoon"
+			},
+			"name": "baking powder"
+		},
+		{
+			"amount": {
+				"quantity": 1,
+				"unit": "cup"
+			},
+			"name": "all-purpose flour"
+		},
+		{
+			"amount": {
+				"quantity": 1,
+				"unit": null
+			},
+			"name": "egg"
+		},
+		{
+			"amount": {
+				"quantity": 2.5,
+				"unit": "tablespoon"
+			},
+			"name": "butter"
+		}
+	],
+	"likes": [
+		261,
+		415,
+		1,
+		35,
+		75
+	],
+	"likes_count": 4,
+	"prep_time": 10,
+	"rating": [
+		5,
+		4,
+		3,
+		5,
+		4,
+		5,
+		3,
+		1,
+		5
+	],
+	"rating_avg": 3.88,
+	"servings": 4,
+	"type": "Breakfast"
+},
+{
+	"_id": {
+		"$oid": "5e87856d07beb474c074c5ca"
+	},
+	"title": "Brown Sugar Meatloaf",
+	"calories_per_serving": 273,
+	"cook_time": 60,
+	"desc": "A sweet twist on traditional meatloaf",
+	"directions": [
+		"Preheat oven to 350 F and lightly grease a 5x9 inch loaf pan.",
+		"Spread and press brown sugar to the bottom of loaf pan and spread ketchup over the sugar.",
+		"In a mixing bowl, mix remaining ingredients",
+		"Shape and press into a loaf pan (on top of the ketchup and sugar).",
+		"Bake for 1 hour."
+	],
+	"ingredients": [
+		{
+			"amount": {
+				"quantity": 0.5,
+				"unit": "cup"
+			},
+			"name": "packed brown sugar"
+		},
+		{
+			"amount": {
+				"quantity": 0.5,
+				"unit": "cup"
+			},
+			"name": "ketchup"
+		}
+	],
+	"likes": [
+		415,
+		2,
+		75
+	],
+	"likes_count": 3,
+	"prep_time": 12,
+	"rating": [
+		4,
+		1,
+		4,
+		4
+	],
+	"rating_avg": 3.25,
+	"servings": 7,
+	"tags": [
+		"groud beef",
+		"family meal",
+		"easy"
+	],
+	"type": "Dinner"
+},
+{
+	"_id": {
+		"$oid": "5e878f5220a4f574c0aa56db"
+	},
+	"title": "Maple Smoked Salmon",
+	"calories_per_serving": 286,
+	"cook_time": 20,
+	"desc": "Wonderful smoked salon with maple wood",
+	"directions": [
+		"Prep smoker with maple",
+		"Scale and prep fish with maple syrup",
+		"Smoke / grill until done."
+	],
+	"ingredients": [
+		{
+			"amount": {
+				"quantity": 3,
+				"unit": "lbs"
+			},
+			"name": "salmon"
+		},
+		{
+			"amount": {
+				"quantity": 0.5,
+				"unit": "cup"
+			},
+			"name": "maple syrup"
+		}
+	],
+	"likes": [
+		1
+	],
+	"likes_count": 1,
+	"prep_time": 15,
+	"servings": 4,
+	"tags": [
+		"fish",
+		"smoked",
+		"grill"
+	],
+	"type": "Dinner"
+},
+{
+	"_id": {
+		"$oid": "5edf1cd43260aab97ea0d588"
+	},
+	"title": "Apple Pie",
+	"calories_per_serving": 384,
+	"comments": [
+		{
+			"body": "Solid apple pie! Well I don't mean it is actually solid I mean it is really good ... it's actually both soft and crusty. I don't mean like bad crusty, I mean like the crust is ... oh nevermind.",
+			"date": {
+				"$date": "2020-09-07T18:42:30Z"
+			},
+			"name": "Caderyn Jenkins",
+			"user_id": 1
+		},
+		{
+			"body": "Mine is better, but this pretty good.",
+			"date": {
+				"$date": "2000-02-03T18:42:30Z"
+			},
+			"name": "Grace Hopper",
+			"user_id": 2
+		}
+	],
+	"cook_time": 45,
+	"desc": "All American 🍏 pie",
+	"directions": [
+		"Preheat oven to 425 F",
+		"Put bottom crust in pan place in refrigerator",
+		"Peal, decore and chop apple into 1/2 to 1 inch pieces (or slice into thin pieces)",
+		"Mix flour with sugar and spices",
+		"Mix apples with flour/spice/sugar and juice from lemon",
+		"Pour into pan with bottom crust and optionally slice a few pieces of button on top",
+		"Place top crust on top and pinch sides. Cut small slits into middle of top.",
+		"Cover edges with foil around top of crust and remove durning last 20 mintues.",
+		"Bake 45 mintues."
+	],
+	"ingredients": [
+		{
+			"amount": {
+				"quantity": 2,
+				"unit": null
+			},
+			"name": "pie crusts"
+		},
+		{
+			"amount": {
+				"quantity": 6,
+				"unit": null
+			},
+			"name": "granny smith apples"
+		},
+		{
+			"amount": {
+				"quantity": 0.75,
+				"unit": "cup"
+			},
+			"name": "granulated suger"
+		},
+		{
+			"amount": {
+				"quantity": 1,
+				"unit": "tbsp"
+			},
+			"name": "cinnamon"
+		},
+		{
+			"amount": {
+				"quantity": 1,
+				"unit": "tps"
+			},
+			"name": "nutmeg"
+		},
+		{
+			"amount": {
+				"quantity": 1,
+				"unit": null
+			},
+			"name": "lemon"
+		}
+	],
+	"likes": [
+		2,
+		1,
+		75
+	],
+	"likes_count": 3,
+	"prep_time": 25,
+	"rating": [
+		5,
+		5,
+		5,
+		5,
+		5,
+		5,
+		5,
+		5,
+		5,
+		5,
+		5,
+		5,
+		5,
+		5,
+		5,
+		5,
+		5,
+		1,
+		5,
+		5
+	],
+	"rating_avg": 4.8,
+	"servings": 8,
+	"tags": [
+		"traditional",
+		"4th of july"
+	],
+	"type": "Dessert"
+},
+{
+	"_id": {
+		"$oid": "5edf1d313260aab97ea0d589"
+	},
+	"title": "Zucchini Brownies",
+	"calories_per_serving": 271,
+	"cook_time": 32,
+	"desc": "Don't worry, they won't turn out green",
+	"directions": [
+		"Combine brownie mix with other ingredients",
+		"Bake as it says on box",
+		"Don't actually make or eat this."
+	],
+	"high_alt": {
+		"add_ingredients": [
+			{
+				"amount": {
+					"quantity": "2",
+					"unit": "tbsp"
+				},
+				"name": "flour"
+			}
+		],
+		"add_time": 5
+	},
+	"ingredients": [
+		{
+			"amount": {
+				"quantity": 1,
+				"unit": "cup"
+			},
+			"name": "butter"
+		},
+		{
+			"amount": {
+				"quantity": 2,
+				"unit": null
+			},
+			"name": "egg"
+		},
+		{
+			"amount": {
+				"quantity": 0.75,
+				"unit": "cup"
+			},
+			"name": "plain yogurt"
+		},
+		{
+			"amount": {
+				"quantity": 0.75,
+				"unit": "cup"
+			},
+			"name": "shredded zucchini"
+		},
+		{
+			"amount": {
+				"quantity": 0.75,
+				"unit": "cup"
+			},
+			"name": "chocolate chips (semisweet)"
+		},
+		{
+			"amount": {
+				"quantity": 3,
+				"unit": "lbs"
+			},
+			"name": "creamy peanut butter"
+		},
+		{
+			"amount": {
+				"quantity": 1,
+				"unit": null
+			},
+			"name": "brownie mix"
+		}
+	],
+	"prep_time": 12,
+	"rating": [
+		1,
+		1,
+		1,
+		1,
+		5
+	],
+	"rating_avg": 1.8,
+	"servings": 12,
+	"tags": [
+		"sweets",
+		"easy"
+	],
+	"type": "Dessert"
+},
+{
+	"_id": {
+		"$oid": "5e5e9c470d33e9e8e3891b35"
+	},
+	"title": "Tacos",
+	"calories_per_serving": 210,
+	"cook_time": 20,
+	"desc": "Classic Mexican tacos",
+	"directions": [
+		"Brown beef",
+		"Add taco seasoning and water, mix",
+		"Bring to boil",
+		"Lower heat to simmer 5-10 minutes until desired consistency",
+		"Put meat in tacos"
+	],
+	"ingredients": [
+		{
+			"name": "ground beef (lean)",
+			"quantity": {
+				"amount": 1,
+				"unit": "lbs"
+			}
+		},
+		{
+			"name": "taco seasoning",
+			"quantity": {
+				"amount": 2,
+				"unit": "oz"
+			}
+		},
+		{
+			"name": "corn hard tacos",
+			"quantity": {
+				"amount": 12,
+				"unit": "oz"
+			}
+		}
+	],
+	"likes": [
+		1,
+		415
+	],
+	"likes_count": 2,
+	"prep_time": 10,
+	"rating": [
+		4,
+		4,
+		3,
+		4,
+		2,
+		5,
+		2,
+		2,
+		4,
+		5
+	],
+	"rating_avg": 3.5,
+	"servings": 4,
+	"tags": [
+		"mexican",
+		"quick",
+		"easy",
+		"ground beef"
+	],
+	"type": "Dinner"
+}]
+

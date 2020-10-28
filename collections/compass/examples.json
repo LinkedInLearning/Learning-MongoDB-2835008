@@ -1,0 +1,79 @@
+[{
+	"_id": {
+		"$oid": "5ee69d943260aab97ea0d58d"
+	},
+	"title": "Pizza"
+},
+{
+	"_id": {
+		"$oid": "5ee69e393260aab97ea0d58e"
+	},
+	"title": "Delete me"
+},
+{
+	"_id": {
+		"$oid": "5e5e9c470d33e9e8e3891b35"
+	},
+	"title": "Tacos",
+	"calories_per_serving": 210,
+	"cook_time": 20,
+	"desc": "Classic Mexican tacos",
+	"directions": [
+		"Brown beef",
+		"Add taco seasoning and water, mix",
+		"Bring to boil",
+		"Lower heat to simmer 5-10 minutes until desired consistency",
+		"Put meat in tacos"
+	],
+	"ingredients": [
+		{
+			"name": "ground beef (lean)",
+			"quantity": {
+				"amount": 1,
+				"unit": "lbs"
+			}
+		},
+		{
+			"name": "taco seasoning",
+			"quantity": {
+				"amount": 2,
+				"unit": "oz"
+			}
+		},
+		{
+			"name": "corn hard tacos",
+			"quantity": {
+				"amount": 12,
+				"unit": "oz"
+			}
+		}
+	],
+	"likes": [
+		1,
+		415
+	],
+	"likes_count": 2,
+	"prep_time": 10,
+	"rating": [
+		4,
+		4,
+		3,
+		4,
+		2,
+		5,
+		2,
+		2,
+		4,
+		5
+	],
+	"rating_avg": 3.5,
+	"servings": 4,
+	"tags": [
+		"mexican",
+		"quick",
+		"easy",
+		"ground beef"
+	],
+	"type": "Dinner"
+}]
+
