@@ -10,7 +10,9 @@ Replication of your data allows you to improve performance and reliability by sc
 #### Commands to setup replicas
 
 `mongod --replSet cookingSet --dbpath=/store/data/rs1 --port 27017 --smallfiles --oplogSize 200`
+
 `mongod --replSet cookingSet --dbpath=/store/data/rs2 --port 27018 --smallfiles --oplogSize 200`
+
 `mongod --replSet cookingSet --dbpath=/store/data/rs3 --port 27019 --smallfiles --oplogSize 200`
 
 #### Config Replica Set
