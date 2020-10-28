@@ -1,5 +1,6 @@
-##Assessment
-####When Sharding a Database the data will be:
+## Assessment
+
+#### When Sharding a Database the data will be:
 
 a) Copied between servers
 b) Broken up between random servers

@@ -1,4 +1,4 @@
-###PHP
+# PHP
 
 Using the PHP MongoDB extension, you will learn to create a basic PHP application to display information from recipe Documents in MongoDB.
 

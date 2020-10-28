@@ -1,4 +1,4 @@
-###Python
+# Python
 
 Using PyMongo, you will learn to create a basic Python application to display information from recipe Documents in MongoDB.
 

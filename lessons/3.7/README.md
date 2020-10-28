@@ -1,4 +1,4 @@
-###Solution: How to write a query
+# Solution: How to write a query
 
 Query 1
 

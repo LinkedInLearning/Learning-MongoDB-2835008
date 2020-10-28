@@ -1,5 +1,6 @@
-##Assessment
-####To add a new item to a field that is an array you would use the follow operator:
+## Assessment
+
+#### To add a new item to a field that is an array you would use the follow operator:
 
 a) `$pull`
 b) `$add`

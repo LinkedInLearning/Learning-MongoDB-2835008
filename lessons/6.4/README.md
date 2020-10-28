@@ -1,4 +1,4 @@
-###Authentication and authorization
+# Authentication and authorization
 
 Securing your database is an important best practice of server administration. Learn how both authentication and authorization work in MongoDB and secure your database by default.
 

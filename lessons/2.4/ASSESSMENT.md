@@ -1,5 +1,6 @@
-##Assessment
-####Collections are created:
+## Assessment
+
+#### Collections are created:
 
 a) With the create() collection command
 b) Automatically when data is inserted

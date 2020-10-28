@@ -1,5 +1,6 @@
-##Assessment
-####To sort by title in descending order you would use ...
+## Assessment
+
+#### To sort by title in descending order you would use ...
 
 a) `db.collection.find({}).sort({"title" : 1})`
 b) `db.collection.find({"title" : -1}).sort()`

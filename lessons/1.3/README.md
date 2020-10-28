@@ -1,4 +1,4 @@
-#Install MongoDB on MacOS and import data
+# Install MongoDB on MacOS and import data
 
 In this video, we will learn how to set up a basic MongoDB server on MacOS.
 

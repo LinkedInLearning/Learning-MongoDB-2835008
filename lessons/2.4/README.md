@@ -1,4 +1,4 @@
-#Collections
+# Collections
 
 Collections in MongoDB are an ideal way to group similar Document types. In this lesson, you will learn how and when you should use Collections.
 

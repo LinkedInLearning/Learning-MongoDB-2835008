@@ -1,5 +1,6 @@
-##Assessment
-####To find a recipe containing an ingredient "tofu" you would use:
+## Assessment
+
+#### To find a recipe containing an ingredient "tofu" you would use:
 
 a) `db.collection.find({ "ingredients["name"]" : "tofu" })`
 b) `db.collection.find({ "ingredients" : { "name" : "tofu" } })`

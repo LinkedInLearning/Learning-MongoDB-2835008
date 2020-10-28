@@ -1,4 +1,4 @@
-###Basic indexes
+# Basic indexes
 
 Properly indexing data is important for database performance. Learn how to create basic indexes in MongoDB and how this is both similar and dissimilar from relational database systems.
 

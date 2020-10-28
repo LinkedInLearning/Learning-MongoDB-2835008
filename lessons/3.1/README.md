@@ -1,4 +1,4 @@
-#Sort, limit, and skip
+# Sort, limit, and skip
 
 With any database sorting and limiting, your results are key to performance and user experience. Using our collection of recipes, we'll learn how to sort and limit our results based on typical application needs.
 
