@@ -1,6 +1,3 @@
-# Install MongoDB on Windows and import data
+#MongoDB vs Relational Databases
 
-In this video, we will learn how to set up a basic MongoDB server on the Windows OS.
-
-- [Install MongoDB on Windows](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
-- [mongod](https://docs.mongodb.com/manual/reference/program/mongod/index.html)
+There are some key differences between a traditional "relational" database like SQL and MongoDB's "NoSQL" type. In this video we'll give high level but explicite overview of the differences.

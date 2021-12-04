@@ -1,11 +1,6 @@
-# How to use GridFS to store files
+# Using different collection types
 
-MongoDB has built-in support for storing files within the database itself called GridFS. Learn how to use GridFS to store and retrieve image of recipes.
+Storing different types of data may require using special types of collections. In this video we'll discuss two options Capped Collections and Time Series Collections (which is new in MongoDB 5.0).
 
-- [GridFS](https://docs.mongodb.com/manual/core/gridfs/index.html)
-- [`mongofiles`](https://docs.mongodb.com/manual/reference/program/mongofiles/index.html)
-
-#### Ozma of Oz
-
-- [https://archive.org/details/ozmaofozrecordof00baum](https://archive.org/details/ozmaofozrecordof00baum)
-- [PDF File](https://archive.org/download/ozmaofozrecordof00baum/ozmaofozrecordof00baum.pdf)
+- [Capped Collections](https://docs.mongodb.com/manual/core/capped-collections/)
+- [Time Series Collections](https://docs.mongodb.com/manual/core/timeseries-collections/)
