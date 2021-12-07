@@ -1,4 +1,4 @@
-{
+[{
 	"_id": {
 		"$oid": "5e6fd805fa98021236426a24"
 	},
@@ -9,8 +9,8 @@
 	"directions": [
 		"Put seasoning on chicken breasts",
 		"Grill until done",
-		"Chop chicken into peices",
-		"Put in totillas"
+		"Chop chicken into pieces",
+		"Put in tortillas"
 	],
 	"ingredients": [
 		{
@@ -28,7 +28,7 @@
 			}
 		},
 		{
-			"name": "small flour totillas",
+			"name": "small flour tortillas",
 			"quantity": {
 				"amount": 12,
 				"unit": "oz"
@@ -60,7 +60,7 @@
 		"chicken"
 	],
 	"type": "Dinner"
-}
+},
 {
 	"_id": {
 		"$oid": "5e877cba20a4f574c0aa56da"
@@ -176,7 +176,7 @@
 	"rating_avg": 3.88,
 	"servings": 4,
 	"type": "Breakfast"
-}
+},
 {
 	"_id": {
 		"$oid": "5e87856d07beb474c074c5ca"
@@ -224,12 +224,12 @@
 	"rating_avg": 3.25,
 	"servings": 7,
 	"tags": [
-		"groud beef",
+		"ground beef",
 		"family meal",
 		"easy"
 	],
 	"type": "Dinner"
-}
+},
 {
 	"_id": {
 		"$oid": "5e878f5220a4f574c0aa56db"
@@ -271,7 +271,7 @@
 		"grill"
 	],
 	"type": "Dinner"
-}
+},
 {
 	"_id": {
 		"$oid": "5edf1cd43260aab97ea0d588"
@@ -280,7 +280,7 @@
 	"calories_per_serving": 384,
 	"comments": [
 		{
-			"body": "Solid apple pie! Well I don't mean it is actually solid I mean it is really good ... it's actually both soft and crusty. I don't mean like bad crusty, I mean like the crust is ... oh nevermind.",
+			"body": "Solid apple pie! Well I don't mean it is actually solid I mean it is really good ... it's actually both soft and crusty. I don't mean like bad crusty, I mean like the crust is ... oh never-mind.",
 			"date": {
 				"$date": "2020-09-07T18:42:30Z"
 			},
@@ -301,13 +301,13 @@
 	"directions": [
 		"Preheat oven to 425 F",
 		"Put bottom crust in pan place in refrigerator",
-		"Peal, decore and chop apple into 1/2 to 1 inch pieces (or slice into thin pieces)",
+		"Peal, de-core and chop apple into 1/2 to 1 inch pieces (or slice into thin pieces)",
 		"Mix flour with sugar and spices",
 		"Mix apples with flour/spice/sugar and juice from lemon",
 		"Pour into pan with bottom crust and optionally slice a few pieces of button on top",
 		"Place top crust on top and pinch sides. Cut small slits into middle of top.",
-		"Cover edges with foil around top of crust and remove durning last 20 mintues.",
-		"Bake 45 mintues."
+		"Cover edges with foil around top of crust and remove durning last 20 minutes.",
+		"Bake 45 minutes."
 	],
 	"ingredients": [
 		{
@@ -329,7 +329,7 @@
 				"quantity": 0.75,
 				"unit": "cup"
 			},
-			"name": "granulated suger"
+			"name": "granulated sugar"
 		},
 		{
 			"amount": {
@@ -389,7 +389,7 @@
 		"4th of july"
 	],
 	"type": "Dessert"
-}
+},
 {
 	"_id": {
 		"$oid": "5edf1d313260aab97ea0d589"
@@ -481,7 +481,7 @@
 		"easy"
 	],
 	"type": "Dessert"
-}
+},
 {
 	"_id": {
 		"$oid": "5e5e9c470d33e9e8e3891b35"
@@ -547,4 +547,5 @@
 		"ground beef"
 	],
 	"type": "Dinner"
-}
+}]
+
