@@ -15,11 +15,19 @@ Excelling in an ever-changing software development world requires true "full sta
 - Implementing security
 - Backing up and restoring MongoDB
 
-## MongoDB Version
+## Note on MongoDB Version
 
-This course was recorded with MongoDB version `4.2` While `4.4` will generally work for this course, unfortunately MongoDB now has broken out tools like `mongoimport` into a separate download which you can get here and copy into the bin directory:
+This course was recorded with MongoDB version `5.0`, while `6.0` will work for this course unfortunately MongoDB 6.0 now has changed the default shell to `mongosh` instead of `mongo`.
 
-## Download MongoDB Database Tools (if using `4.4`+)
+**Anywhere in the course that `mongo` is used `mongosh` can be used instead.**
+
+If you have MongoDB Compass installed you can pres the `_MONGOSH` button (once you connect) to get an inline shell:
+
+<img src="https://user-images.githubusercontent.com/525071/197039951-450d3c44-4944-4a00-ba5a-7a1a59a28050.jpg" height="50%" width="50%" />
+
+You may need to install `mongosh` see the MongoDB website: https://www.mongodb.com/docs/mongodb-shell/
+
+## Download MongoDB Database Tools
 
 To make sure you have tools like `mongoimport` and `mongoexport` you may need to download the MongoDB Database Tools.
 
